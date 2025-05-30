@@ -16,7 +16,7 @@ Este projeto é um jogo de adivinhação de número aleatório executado no term
 ## 🚀 Instalação
 
 ```git clone https://github.com/CodeDias/JogoTypescript.git ``` \
-``` cd jogo-adivinhacao-ts ``` \
+``` cd jogo ``` \
 ``` npm install ```
 
 ##  ▶️ Executando o Jogo
